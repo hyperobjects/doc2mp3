@@ -4,10 +4,10 @@ sometimes it’s easier to listen an article on the go than to sit and read. Now
 This simple python script is poses a solution to those who have too many articles to read, but, for whatever reason, their eyes are busy. 
 Play and load converted docs as you would any other mp3 file. 
 
-Current functionality only allows one to convert English language docx and pdf file types. 
-I intend to add multilingual support and more file types soon.  
+Current functionality only supports English language docx and pdf file types. 
+I intend to add more file types and multilingual support soon.  
 
-All you have to do is:
+To use this script, all you have to do is:
 
 1. From terminal, execute: python doc2mp3.py 
 2. Enter the name of the the docx or pdf text file when prompted to do so
