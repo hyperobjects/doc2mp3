@@ -40,7 +40,7 @@ lang = y[1][:2]
 if lang =="zh":
     lang="zh-tw" #Taiwanese Mandarin
 if lang == "pt":
-    lang=="pt-br" #Brazilian Portugeuse
+    lang=="pt-br" #Brazilian Portuguese
 if lang =="fr":
     lang=="fr-fr" #French French
 if lang == "en":  
