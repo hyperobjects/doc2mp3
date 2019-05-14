@@ -3,7 +3,6 @@
 
 from docx import Document
 import pdftotext 
-import sys
 
 fullText = []
 fname = input(" Please enter the full file name you would like to convert to mp3.")
