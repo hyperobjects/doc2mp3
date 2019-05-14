@@ -14,7 +14,7 @@ To use this script, all you have to do is:
 
 Depending on document size, the mp3 may take a few minutes before it is playable.
 
-NOTE: be sure to place doc2mp3.py in the same directory as the file that you want to convert to an mp3. 
+NOTE: be sure to place doc2mp3.py in the same directory as the file that you wish to convert to an mp3. 
 
 Languages currently supported: 
  af: Afrikaans
