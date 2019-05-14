@@ -32,7 +32,6 @@ else:
 
 import cld2
 details = cld2.detect(fullText)
-details[2]
 x = str(details)
 y =x.split("language_code='")
 lang = y[1][:2]
