@@ -8,7 +8,6 @@ fullText = []
 fname = input(" Please enter the full file name you would like to convert to mp3.")
 
 #detect doc type
-
 if fname.endswith('.docx'):
     document = Document(fname)
     for p in document.paragraphs:
@@ -29,7 +28,6 @@ else:
      raise Exception(" Sorry, the current version of this script only supports converting pdf and docx files to mp3s.")
 
 #detect language 
-
 import cld2
 details = cld2.detect(fullText)
 x = str(details)
@@ -48,7 +46,6 @@ if lang == "es":
     lang == "es-us" #US Spanish
 
 #turn into mp3
-
 fn = fname.split('.')
 from gtts import gTTS  #import google text to speech
 tts = gTTS(text=fullText, lang=lang) 
