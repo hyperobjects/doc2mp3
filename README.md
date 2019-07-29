@@ -1,4 +1,4 @@
-<font size =+2>In an increasingly visually dense world, where our eyes are constantly distracted, sometimes it’s easier to listen an article on the go than to sit and read. Now you can convert docx and pdf files to mp3s and listen on the go!</font>
+<font size =+2>In an increasingly visually dense world, where our eyes are constantly distracted, sometimes it’s easier to listen an article on the go than to sit and read. Now you can convert .docx and .pdf files to .mp3s and listen on the go!</font>
  
 To use this script, all you have to do is:
 
