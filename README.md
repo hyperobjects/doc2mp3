@@ -7,7 +7,7 @@ To use this script, all you have to do is:<br>
 <b>2.</b> Enter the name of the the .docx or .pdf text file when prompted to do so <br>
  <b>3.</b> <i>Voilà</i>! A message will appear saying the .mp3 has been created file. Depending on document size, the .mp3 may take a few minutes before it is playable<br>
 
---> Be sure to place doc2mp3.py in the same directory as the file that you wish to convert to an mp3
+--> Be sure to place doc2mp3.py in the same directory as the file that you wish to convert to an .mp3
 
 
 <h1><b>Languages Currently Supported:</b></h1>
