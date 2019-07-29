@@ -78,5 +78,5 @@ pip install cld2 </br>
 
 <b>NOTE:</b> pdftotext may have system specific dependencies, for more info check their readme: https://github.com/jalan/pdftotext/blob/master/README.md
 
-<h3><b>NOTE:</b> be sure to place doc2mp3.py in the same directory as the file that you wish to convert to an mp3.</h3>
+<h2>NOTE:</h2> be sure to place doc2mp3.py in the same directory as the file that you wish to convert to an mp3.
 
