@@ -1,7 +1,7 @@
 <h1> Project Description:</h1>
-In an increasingly visually dense world, where our eyes are constantly distracted, sometimes it’s easier to listen an article on the go than to sit and read. Now you can convert .docx and .pdf files to .mp3s and listen on the go!<br> 
- 
-To use this script, all you have to do is:
+In an increasingly visually dense world, where our eyes are constantly distracted, sometimes it’s easier to listen an article on the go than to sit and read. Now you can convert .docx and .pdf files to .mp3s and listen on the go!
+<br>  
+To use this script, all you have to do is:</br>
 
 <b>1.</b> From terminal, execute: python doc2mp3.py </br>
 <b>2.</b> Enter the name of the the docx or pdf text file when prompted to do so </br>
