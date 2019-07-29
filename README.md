@@ -10,7 +10,7 @@ To use this script, all you have to do is:</br>
 --> Be sure to place doc2mp3.py in the same directory as the file that you wish to convert to an mp3
 
 
-<h1><b>Languages currently supported:</b></h1>
+<h1><b>Languages Currently Supported:</b></h1>
  af: Afrikaans</br>
   ar: Arabic</br>
   bn: Bengali</br>
