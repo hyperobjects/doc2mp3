@@ -72,10 +72,10 @@ Depending on document size, the mp3 may take a few minutes before it is playable
   vi: Vietnamese
   zh-tw: Chinese (Mandarin/Taiwan)
   
-<b>Dependencies: </b>
-pip install gTTS 
-pip install python-docx
-pip install pdftotext 
-pip install cld2
+<h1><b>Dependencies: </b></h1>
+pip install gTTS </br>
+pip install python-docx </br>
+pip install pdftotext </br>
+pip install cld2 </br>
 
 pdftotext may have system specific dependencies, for more info check their readme: https://github.com/jalan/pdftotext/blob/master/README.md
