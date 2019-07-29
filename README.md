@@ -1,5 +1,5 @@
 <h1> Project Description:</h1>
-In an increasingly visually dense world, where our eyes are constantly distracted, sometimes it’s easier to listen an article on the go than to sit and read. Now you can convert .docx and .pdf files to .mp3s and listen on the go! <br>  
+In an increasingly visually dense world, where our eyes are constantly distracted, sometimes it’s easier to listen an article on the go than to sit and read. Now you can convert .docx and .pdf files to .mp3 and listen on the go! <br>  
 
 To use this script, all you have to do is:<br>
 
