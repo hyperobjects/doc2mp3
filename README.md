@@ -4,15 +4,15 @@ Play and load converted docs as you would any other mp3 file.
 
 To use this script, all you have to do is:
 
-1. From terminal, execute: python doc2mp3.py 
-2. Enter the name of the the docx or pdf text file when prompted to do so
-3. Voilà! An message will appear saying the mp3 has been created file
+<b>1</b> From terminal, execute: python doc2mp3.py 
+<b>2</b> Enter the name of the the docx or pdf text file when prompted to do so
+<b>3</b> <i>Voilà!</i> An message will appear saying the mp3 has been created file
 
 Depending on document size, the mp3 may take a few minutes before it is playable.
 
 <b>NOTE:</b> be sure to place doc2mp3.py in the same directory as the file that you wish to convert to an mp3. 
 
-Languages currently supported: 
+<b>Languages currently supported:</b>
  af: Afrikaans
   ar: Arabic
   bn: Bengali
@@ -72,7 +72,7 @@ Languages currently supported:
   vi: Vietnamese
   zh-tw: Chinese (Mandarin/Taiwan)
   
-Dependencies: 
+<b>Dependencies: </b>
 pip install gTTS 
 pip install python-docx
 pip install pdftotext 
