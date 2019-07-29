@@ -9,7 +9,7 @@ To use this script, all you have to do is:
 <b>3.</b> <i>Voilà!</i> An message will appear saying the mp3 has been created file
 
 --> Be sure to place doc2mp3.py in the same directory as the file that you wish to convert to an mp3.</br>
-Depending on document size, the mp3 may take a few minutes before it is playable. <--
+--> Depending on document size, the mp3 may take a few minutes before it is playable. 
 
 
 <h1><b>Languages currently supported:</b></h1>
