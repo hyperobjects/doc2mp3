@@ -8,7 +8,9 @@ To use this script, all you have to do is:
 <b>2.</b> Enter the name of the the docx or pdf text file when prompted to do so </br>
 <b>3.</b> <i>Voilà!</i> An message will appear saying the mp3 has been created file
 
-Depending on document size, the mp3 may take a few minutes before it is playable.
+Depending on document size, the mp3 may take a few minutes before it is playable. 
+Be sure to place doc2mp3.py in the same directory as the file that you wish to convert to an mp3.
+
 
 <h1><b>Languages currently supported:</b></h1>
  af: Afrikaans
@@ -77,6 +79,3 @@ pip install pdftotext </br>
 pip install cld2 </br>
 
 <b>NOTE:</b> pdftotext may have system specific dependencies, for more info check their readme: https://github.com/jalan/pdftotext/blob/master/README.md
-
-<h2>NOTE:</h2> be sure to place doc2mp3.py in the same directory as the file that you wish to convert to an mp3.
-
