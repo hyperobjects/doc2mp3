@@ -4,7 +4,7 @@ Play and load converted docs as you would any other mp3 file.
 
 To use this script, all you have to do is:
 
-<b>1</b> From terminal, execute: python doc2mp3.py 
+<b>1</b> From terminal, execute: python doc2mp3.py </br>
 <b>2</b> Enter the name of the the docx or pdf text file when prompted to do so </br>
 <b>3</b> <i>Voilà!</i> An message will appear saying the mp3 has been created file
 
