@@ -76,4 +76,4 @@ pip install python-docx </br>
 pip install pdftotext </br>
 pip install cld2 </br>
 
-<b>NOTE:</b> pdftotext may have system specific dependencies, for more info check their readme: https://github.com/jalan/pdftotext/blob/master/README.md
+<b>NOTE:</b> pdftotext may have system specific dependencies, for more info check the readme: https://github.com/jalan/pdftotext/blob/master/README.md
