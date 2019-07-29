@@ -1,7 +1,7 @@
 In an increasingly visually dense world, where our eyes are constantly distracted, 
 sometimes it’s easier to listen an article on the go than to sit and read. Now you can convert docx and pdf files to mp3s!
 
-This simple python script is poses a solution to those who have too many articles to read, but, for whatever reason, their eyes are busy. 
+This simple python script poses a solution to those who have too many articles to read, but, for whatever reason, their eyes are busy. 
 Play and load converted docs as you would any other mp3 file. 
 
 Current functionality only supports docx and pdf file types. 
