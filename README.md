@@ -13,64 +13,64 @@ Be sure to place doc2mp3.py in the same directory as the file that you wish to c
 
 
 <h1><b>Languages currently supported:</b></h1>
- af: Afrikaans
-  ar: Arabic
-  bn: Bengali
-  bs: Bosnian
-  ca: Catalan
-  cs: Czech
-  cy: Welsh
-  da: Danish
-  de: German
-  el: Greek
-  en-us: English (US)
-  eo: Esperanto
-  es-us: Spanish (United States)
-  es: Spanish
-  et: Estonian
-  fi: Finnish
-  fr-fr: French (France)
-  fr: French
-  hi: Hindi
-  hr: Croatian
-  hu: Hungarian
-  hy: Armenian
-  id: Indonesian
-  is: Icelandic
-  it: Italian
-  ja: Japanese
-  jw: Javanese
-  km: Khmer
-  ko: Korean
-  la: Latin
-  lv: Latvian
-  mk: Macedonian
-  ml: Malayalam
-  mr: Marathi
-  my: Myanmar (Burmese)
-  ne: Nepali
-  nl: Dutch
-  no: Norwegian
-  pl: Polish
-  pt-br: Portuguese (Brazil)
-  pt: Portuguese
-  ro: Romanian
-  ru: Russian
-  si: Sinhala
-  sk: Slovak
-  sq: Albanian
-  sr: Serbian
-  su: Sundanese
-  sv: Swedish
-  sw: Swahili
-  ta: Tamil
-  te: Telugu
-  th: Thai
-  tl: Filipino
-  tr: Turkish
-  uk: Ukrainian
-  vi: Vietnamese
-  zh-tw: Chinese (Mandarin/Taiwan)
+ af: Afrikaans</br>
+  ar: Arabic</br>
+  bn: Bengali</br>
+  bs: Bosnian</br>
+  ca: Catalan</br>
+  cs: Czech</br>
+  cy: Welsh</br>
+  da: Danish</br>
+  de: German</br>
+  el: Greek</br>
+  en-us: English (US) </br>
+  eo: Esperanto </br>
+  es-us: Spanish (United States) </br>
+  es: Spanish </br>
+  et: Estonian </br>
+  fi: Finnish </br>
+  fr-fr: French (France) </br>
+  fr: French </br>
+  hi: Hindi </br>
+  hr: Croatian </br>
+  hu: Hungarian </br>
+  hy: Armenian </br>
+  id: Indonesian </br>
+  is: Icelandic </br>
+  it: Italian </br>
+  ja: Japanese </br>
+  jw: Javanese </br>
+  km: Khmer </br>
+  ko: Korean </br>
+  la: Latin </br>
+  lv: Latvian </br>
+  mk: Macedonian </br>
+  ml: Malayalam </br>
+  mr: Marathi </br>
+  my: Myanmar (Burmese) </br>
+  ne: Nepali </br>
+  nl: Dutch </br>
+  no: Norwegian </br>
+  pl: Polish </br>
+  pt-br: Portuguese (Brazil) </br>
+  pt: Portuguese </br>
+  ro: Romanian </br>
+  ru: Russian </br>
+  si: Sinhala </br>
+  sk: Slovak </br>
+  sq: Albanian </br>
+  sr: Serbian </br>
+  su: Sundanese </br>
+  sv: Swedish </br>
+  sw: Swahili </br>
+  ta: Tamil </br>
+  te: Telugu </br>
+  th: Thai </br>
+  tl: Filipino </br>
+  tr: Turkish </br>
+  uk: Ukrainian </br>
+  vi: Vietnamese </br>
+  zh-tw: Chinese (Mandarin/Taiwan) </br>
   
 <h1><b>Dependencies: </b></h1>
 pip install gTTS </br>
