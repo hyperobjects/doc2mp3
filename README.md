@@ -1,16 +1,17 @@
-<h1> Project Description:</h1>
+#Convert .docx and .pdf Files to mp3s 
 In an increasingly visually dense world, where our eyes are constantly distracted, sometimes it’s easier to listen an article on the go than to sit and read. Now you can convert .docx and .pdf files to .mp3 and listen on the go! <br>  
 
+<h1> Project Description:</h1>
 To use this script, all you have to do is:<br>
 
-<b>1.</b> From terminal, execute: python doc2mp3.py <br>
-<b>2.</b> Enter the name of the the .docx or .pdf text file when prompted to do so <br>
- <b>3.</b> <i>Voilà</i>! A message will appear saying the .mp3 has been created file. Depending on document size, the .mp3 may take a few minutes before it is playable<br>
+<b>1.</b> From terminal, execute: python doc2mp3.py. <br>
+<b>2.</b> Enter the name of the the .docx or .pdf text file when prompted to do so. <br>
+ <b>3.</b> <i>Voilà</i>! A message will appear saying the .mp3 has been created file. Depending on document size, the .mp3 may take a few minutes before it is playable.<br>
 
---> Be sure to place doc2mp3.py in the same directory as the file that you wish to convert to an .mp3
+Be sure to place doc2mp3.py in the same directory as the file that you wish to convert to an .mp3
 
 
-<h1><b>Languages Currently Supported:</b></h1>
+<h2><b>Languages Currently Supported:</b></h2>
  af: Afrikaans</br>
   ar: Arabic</br>
   bn: Bengali</br>
@@ -70,7 +71,7 @@ To use this script, all you have to do is:<br>
   vi: Vietnamese </br>
   zh-tw: Chinese (Mandarin/Taiwan) </br>
   
-<h1><b>Dependencies: </b></h1>
+<h2><b>Dependencies: </b></h2>
 pip install gTTS </br>
 pip install python-docx </br>
 pip install pdftotext </br>
