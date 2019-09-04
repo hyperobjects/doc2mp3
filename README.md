@@ -1,4 +1,4 @@
-# Convert .docx and .pdf Files to .mp3 
+# Convert .docx and .pdf to .mp3 
 
 In an increasingly visually dense world, where our eyes are constantly distracted, sometimes it’s easier to listen an article on the go than to sit and read. Now you can convert .docx and .pdf files to .mp3 and listen on the go! <br>  
 
