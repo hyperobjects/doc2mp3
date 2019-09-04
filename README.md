@@ -1,4 +1,5 @@
-#Convert .docx and .pdf Files to mp3s 
+# Convert .docx and .pdf Files to mp3s 
+
 In an increasingly visually dense world, where our eyes are constantly distracted, sometimes it’s easier to listen an article on the go than to sit and read. Now you can convert .docx and .pdf files to .mp3 and listen on the go! <br>  
 
 <h1> Project Description:</h1>
@@ -77,4 +78,4 @@ pip install python-docx </br>
 pip install pdftotext </br>
 pip install cld2 </br>
 <br> 
-<b>NOTE:</b> pdftotext may have system specific dependencies, for more info check the readme: https://github.com/jalan/pdftotext/blob/master/README.md
+<b>Note:</b> pdftotext may have system specific dependencies, for more info check the readme: https://github.com/jalan/pdftotext/blob/master/README.md
