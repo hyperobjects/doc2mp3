@@ -72,10 +72,5 @@ Be sure to place doc2mp3.py in the same directory as the file that you wish to c
   vi: Vietnamese </br>
   zh-tw: Chinese (Mandarin/Taiwan) </br>
   
-<h2><b>Dependencies: </b></h2>
-pip install gTTS </br>
-pip install python-docx </br>
-pip install pdftotext </br>
-pip install cld2 </br>
-<br> 
-<b>Note:</b> pdftotext may have system specific dependencies, for more info check the readme: https://github.com/jalan/pdftotext/blob/master/README.md
+<h2><b> Note on Dependencies: </b></h2>
+pdftotext may have system specific dependencies, for more info check the readme: https://github.com/jalan/pdftotext/blob/master/README.md
