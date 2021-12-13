@@ -4,7 +4,7 @@ click==7.1.2
 docx==0.2.4
 gTTS==2.2.2
 idna==2.10
-lxml==4.6.3
+lxml==4.6.5
 pdftotext==2.1.5
 Pillow==8.2.0
 pycld2==0.41
