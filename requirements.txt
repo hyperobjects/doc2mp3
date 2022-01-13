@@ -5,7 +5,7 @@ docx==0.2.4
 gTTS==2.2.2
 idna==2.10
 pdftotext==2.1.5
-Pillow==8.3.2
+Pillow==9.0.0
 pycld2==0.41
 python-docx==0.8.10
 requests==2.25.1
